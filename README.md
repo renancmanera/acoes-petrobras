@@ -30,7 +30,7 @@ Este projeto aplica técnicas de Machine Learning para prever os preços de fech
 - Arthur Romani Inácio de Souza
 - Renan Manera  
 Turma CC5N – Estrutura de Dados II  
-Universidade Presidente Antônio Carlos – UNIPAC
+Universidade Vila Velha - UVV
 
 ## 📜 Licença
 Este projeto é apenas para fins educacionais e acadêmicos.
