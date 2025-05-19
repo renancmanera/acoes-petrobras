@@ -25,12 +25,3 @@ Este projeto aplica técnicas de Machine Learning para prever os preços de fech
 ## 📈 Resultados
 - A Regressão Linear apresentou melhor desempenho preditivo (R² > 0.97)
 - A Árvore de Decisão permitiu explorar logicamente as divisões entre variáveis
-
-## 👥 Autores
-- Arthur Romani Inácio de Souza
-- Renan Manera  
-Turma CC5N – Estrutura de Dados II  
-Universidade Vila Velha - UVV
-
-## 📜 Licença
-Este projeto é apenas para fins educacionais e acadêmicos.
