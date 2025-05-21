@@ -27,10 +27,10 @@ Prever os preços de fechamento das ações PETR3 e PETR4 com modelos de Regress
 ## 📈 Resultados
 
 ### PETR3:
-![PETR3](img1.jpg)
+![PETR3](img2.jpg)
 
 ### PETR4:
-![PETR4](img2.jpg)
+![PETR4](img1.jpg)
 
 Os gráficos mostram que o modelo Random Forest é mais sensível a mudanças e apresenta melhores previsões em momentos de volatilidade, enquanto a Regressão Linear segue a tendência geral.
 
